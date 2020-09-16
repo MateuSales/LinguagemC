@@ -1,0 +1,14 @@
+
+# Created by https://www.gitignore.io/api/batch
+# Edit at https://www.gitignore.io/?templates=batch
+
+### Batch ###
+# BatchFiles
+*.exe
+*.csv
+*.json
+*.DS_Store
+*.jq
+*.txt
+
+# End of https://www.gitignore.io/api/batch
